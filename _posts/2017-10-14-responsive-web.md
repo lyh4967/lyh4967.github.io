@@ -1,10 +1,12 @@
 ---
+layout:     post
 title: "[HTML&CSS] 반응형 웹사이트 어렵지 않아요!!"
+subtitle:   "Responsive Web"
 date: 2017-10-14 10:18:00
 categories:
 - HTML&CSS
 tags:
-- HTML6
+- HTML&CSS
 ---
 **반응형 웹사이트:PC뿐만아니라모바일에서도 최적화된 CSS를 볼 수 있게 해주는 반응 형 웹사이트**
 <br>

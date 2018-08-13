@@ -2,7 +2,7 @@
 title: Sa-gom Blog 
 SEOTitle: 머릿속 | Sa-gom Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: lyh4967@gmail.com
 description: "Back-End Developer, Prorammer, Young Hoon, Sarigomting"
 keyword: "Sa-gom, Sarigomting, Article, Developer"
 url: ""              # your host, for absolute URL
@@ -53,9 +53,9 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: lyh4967
+disqus_username: hoonsblog
 
-# Netease settings
+# Netease setting
 netease_comment: false
 
 

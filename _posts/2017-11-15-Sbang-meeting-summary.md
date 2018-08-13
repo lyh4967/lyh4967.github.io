@@ -1,5 +1,6 @@
 ---
 title: "[Sbang] 11/15(수) 비트프로젝트 회의"
+subtitle: "스터디와방"
 date: 2017-11-15 10:10:00
 categories:
 - Sbang

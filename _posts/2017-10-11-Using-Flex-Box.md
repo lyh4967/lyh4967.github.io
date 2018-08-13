@@ -1,10 +1,13 @@
 ---
-title: "[HTML&CSS Flex] Box를사용합시다"
-date: 2017-10-11 10:18:00
-categories:
-- HTML&CSS
+layout:     post
+title:      "[HTML&CSS] Flex Box를사용합시다"
+subtitle:   "Amazing flex box"
+date:       2017-10-11 10:02:00
+author:     "Hoon"
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+catalog:    true
 tags:
-- HTML6
+    - HTML&CSS
 ---
 **첫째, 나 플렉스 박스 쓸꺼야!**
 **둘째, 방향은 어디로 정렬할 거야??**

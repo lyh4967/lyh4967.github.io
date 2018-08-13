@@ -1,12 +1,14 @@
 ---
-title: "[HTML&CSS] position float랑 position은 언제 써야할까?"
-date: 2017-10-07 10:18:00
-categories:
-- HTML&CSS
+layout:     post
+title:      "[HTML&CSS] position float랑 position은 언제 써야할까?"
+subtitle:   "What is a position"
+date:       2017-10-07 10:02:00
+author:     "Hoon"
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+catalog:    true
 tags:
-- HTML6
+    - HTML&CSS
 ---
-
 **float는 영역 범위 내에서 촤르르~ 세워지는 느낌??? position은 완전히 여기저기 다닐 수 있는 느낌?? 포지션은 좌표로 움직이나~_~_~_~_~**
 
 # 종류 && 기준점

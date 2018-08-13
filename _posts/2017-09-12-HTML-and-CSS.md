@@ -5,11 +5,9 @@ subtitle:   "Semantic web design"
 date:       2017-9-12 10:02:00
 author:     "Hoon"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
-header-mask: 0.3
 catalog:    true
 tags:
-    - Html
-    - CSS
+    - HTML&CSS
 ---
 ## semantic markup의 필요성
 1. 어떤 맥락에서 markup를 할 수  있는지 알 수 있다.

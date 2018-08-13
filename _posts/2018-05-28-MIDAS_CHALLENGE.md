@@ -4,6 +4,7 @@ date: 2018-05-28 11:30:00
 categories:
 - Project
 tags:
+- Project
 - MIDAS CHALLENGE
 - JAVA
 - BOOT STRAP

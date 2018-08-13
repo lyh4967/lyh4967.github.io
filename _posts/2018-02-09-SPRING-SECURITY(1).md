@@ -5,7 +5,6 @@ categories:
 - Spring
 tags:
 - Spring
-- Spring-Security
 ---
 **스프링 시큐리티를 이해하기 위해서 스프링 시큐리티가 무엇인이 알아야한다.**
 

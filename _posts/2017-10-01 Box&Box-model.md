@@ -1,11 +1,13 @@
 ---
-title: "[HTML&CSS] Box & Box model"
-date: 2017-10-01 10:02:00
-categories:
-- HTML&CSS
+layout:     post
+title:      "[HTML&CSS] Box & Box model"
+subtitle:   "박스에 대한 개념을 잡아보자"
+date:       2017-10-01 10:02:00
+author:     "Hoon"
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+catalog:    true
 tags:
-- HTML6
--Box Model
+    - HTML&CSS
 ---
 ## 레이아웃이 무너지는 이유가 뭘까나??
 **박스에 대하 개념이 안잡혀있어!!!**

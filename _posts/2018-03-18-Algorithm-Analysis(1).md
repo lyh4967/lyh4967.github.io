@@ -4,7 +4,7 @@ date: 2018-03-18 11:30:00
 categories:
 - Algorithm
 tags:
-- SORT
+- Algorithm
 ---
 **교환정렬, 합병정렬**
 

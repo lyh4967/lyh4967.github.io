@@ -4,6 +4,7 @@ date: 2018-04-20 11:30:00
 categories:
 - Datastructure
 tags:
+- Datastructure
 - LINKED
 ---
 **연결 구조체**

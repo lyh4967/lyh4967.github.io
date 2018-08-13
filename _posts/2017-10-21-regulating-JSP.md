@@ -5,7 +5,6 @@ categories:
 - JSP
 tags:
 - JSP
-- SUMMARY
 ---
 # 웹서버 요청방법(GET,POST)
 GET: `<form>`,URL입력,`<a href="">`

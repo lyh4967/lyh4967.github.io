@@ -2,10 +2,9 @@
 title: "[Nodejs] Nodejs 개요"
 date: 2017-11-28 10:10:00
 categories:
-- Nodejs
+- Node.js
 tags:
-- Nodejs
-- INTRODUCTION
+- Node.js
 ---
 **비동기 입출력, 이벤트기반 입출력, 노드js에서 사용하는 모듈을 기반으로 작은 크기의 데이터들을 굉장히 빠른속도로 처리한다.**
 

@@ -4,6 +4,7 @@ date: 2018-05-14 11:30:00
 categories:
 - Datastructure
 tags:
+- Datastructure
 - BST
 ---
 **이진 검색 트리**

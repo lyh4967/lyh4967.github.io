@@ -1,5 +1,6 @@
 ---
 title: "[Sbang] 11/27(월) 비트프로젝트 회의"
+subtitle: "스방"
 date: 2017-11-27 10:10:00
 categories:
 - Sbang

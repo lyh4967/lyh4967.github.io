@@ -4,6 +4,7 @@ date: 2018-05-22 11:30:00
 categories:
 - Datastructure
 tags:
+- Datastructure
 - B-TREE
 ---
 **균형잡는 트리 Balanced Tree 인 B-tree에 대해 알아보자**
