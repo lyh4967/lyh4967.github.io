@@ -53,7 +53,9 @@ kramdown:
 
 
 # Disqus settings
-disqus_shortname: hoonsblog
+disqus_username: sagom
+disqus_url: https://sagom.disqus.com
+disqus_id: sagom
 
 # Netease setting
 netease_comment: false
