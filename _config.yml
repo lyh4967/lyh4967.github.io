@@ -54,10 +54,6 @@ kramdown:
 
 # Disqus settings
 disqus_username: hoonsblog
-disqus_url: https://hoonsblog.disqus.com
-disqus_id: hoonsblog
-disqus_shortname: hoonsblog
-
 # Netease setting
 netease_comment: false
 
