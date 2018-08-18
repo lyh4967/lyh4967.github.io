@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Elastic search] 엘라스틱 서치 소개 및 특징"
 subtitle: "엘라스틱 서치 알고 쓰자"
 date: 2018-08-17 11:30:00
