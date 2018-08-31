@@ -117,7 +117,7 @@ LAN에 연결된 각 컴퓨터가 상황에 따라 클라이언트 또는 서버
 ## 분산운영체제 구현
 
 대부분의 분산운영체제는 마이크로 커널 기반구조이다. 프로세스와 스레드 관리, 메모리 관리, 프로세스 간 통신, 장치관리와 시스템 인터럽트 처리 등 기본 부분만 커널로 유지하고 나머지 기능은 마이크로커널의 응용프로세스로 취급한다.
-![마이크로 커널 vs 모놀리식 커널](http://proneer.tistory.com/entry/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D-%EC%BB%A4%EB%84%90Monolithic-Kernel-versus-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%BB%A4%EB%84%90Micro-Kernel)
+[마이크로 커널 vs 모놀리식 커널](http://proneer.tistory.com/entry/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D-%EC%BB%A4%EB%84%90Monolithic-Kernel-versus-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%BB%A4%EB%84%90Micro-Kernel)
 
 1. 프로세스 기반 분산 운영 체제: 시스템의 모든 프로세스와 자원을 하나의 집합으로(프로세스의 집합)으로 해석한다. 프로세스단위 해석
 <br/>
