@@ -1,7 +1,7 @@
 ---
 title: "[TechCrunch] 깃허브가 "
-subtitle: "중국 Giant 3 IT Company와 시장을 알아보자"
-date: 2018-08-14 11:30:00
+subtitle: "깃허브의 혁신 Action"
+date: 2018-10-17 11:30:00
 categories:
 - Article
 tags:
