@@ -1,5 +1,5 @@
 ---
-title: "[TechCrunch] 깃허브가 "
+title: "[TechCrunch] 깃허브가의 실행 툴 Actions"
 subtitle: "깃허브의 혁신 Action"
 date: 2018-10-17 11:30:00
 categories:
